@@ -1,0 +1,22 @@
+.loveletter {
+    font-family: 'Romantic', sans-serif;
+    color: #ff69b4;
+    background: rgba(255, 182, 193, 0.8);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.loveletter h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.loveletter p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+.loveletter .signature {
+    text-align: right;
+    font-style: italic;
+}
